@@ -1,6 +1,7 @@
 {
 	"name": "pipeline1",
 	"properties": {
+		"description": "added description",
 		"activities": [
 			{
 				"name": "Get Metadata1",
