@@ -1,0 +1,9 @@
+{
+	"name": "Sanghamitra-ADF",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2009ff58-9058-4e88-b194-ffe57c3cb654",
+		"tenantId": "1879a6ae-0b07-4874-a5aa-0fd658e9f9e6"
+	}
+}
